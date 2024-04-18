@@ -1,0 +1,24 @@
+/* Styling for odd numbered elements */
+.odd {
+    background-color: #ffcccc; /* light red/pink background */
+    font-family: Verdana, "DejaVu Sans", sans-serif; /* list of fonts */
+  }
+  
+  /* Styling for the second element */
+  #second {
+    color: blue; /* blue text */
+    font-size: 36px; /* font size of 36px */
+  }
+  
+  /* Styling for the third element */
+  #third {
+    font-size: 24px; /* font size of 24px */
+  }
+  
+  /* Styling for the fourth element */
+  #fourth {
+    background-color: #ccffcc; /* light green background */
+    font-size: 24px; /* font size of 24px */
+    font-weight: bold; /* bold font weight */
+  }
+  
